@@ -1,4 +1,4 @@
-# Gemini Instructions — Dinknesh Bingo
+# CODEX Instructions — Dinknesh Bingo
 
 Follow the project's AI control system and act according to the assigned role. Before beginning, read:
 
